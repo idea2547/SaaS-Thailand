@@ -8,7 +8,7 @@
     <Menubar.Root>
         <Menubar.Menu>
           <Menubar.Trigger>การเปิดตัว</Menubar.Trigger>
-          <Menubar.Content>
+          <!-- <Menubar.Content>
             <Menubar.Item>
               New Tab
               <Menubar.Shortcut>⌘T</Menubar.Shortcut>
@@ -18,11 +18,11 @@
             <Menubar.Item>Share</Menubar.Item>
             <Menubar.Separator />
             <Menubar.Item>Print</Menubar.Item>
-          </Menubar.Content>
+          </Menubar.Content> -->
         </Menubar.Menu>
         <Menubar.Menu>
             <Menubar.Trigger>ชุมชน</Menubar.Trigger>
-            <Menubar.Content>
+            <!-- <Menubar.Content>
               <Menubar.Item>
                 New Tab
                 <Menubar.Shortcut>⌘T</Menubar.Shortcut>
@@ -32,7 +32,7 @@
               <Menubar.Item>Share</Menubar.Item>
               <Menubar.Separator />
               <Menubar.Item>Print</Menubar.Item>
-            </Menubar.Content>
+            </Menubar.Content> -->
           </Menubar.Menu>
           <Menubar.Menu>
             <Menubar.Trigger>Template</Menubar.Trigger>
@@ -44,16 +44,16 @@
                       </Menubar.Item>
                 
                 </a>              
-              <Menubar.Item>New Window</Menubar.Item>
+              <!-- <Menubar.Item>New Window</Menubar.Item>
               <Menubar.Separator />
               <Menubar.Item>Share</Menubar.Item>
               <Menubar.Separator />
-              <Menubar.Item>Print</Menubar.Item>
+              <Menubar.Item>Print</Menubar.Item> -->
             </Menubar.Content>
           </Menubar.Menu>
           <Menubar.Menu>
             <Menubar.Trigger>ข่าวสาร</Menubar.Trigger>
-            <Menubar.Content>
+            <!-- <Menubar.Content>
               <Menubar.Item>
                 New Tab
                 <Menubar.Shortcut>⌘T</Menubar.Shortcut>
@@ -63,7 +63,7 @@
               <Menubar.Item>Share</Menubar.Item>
               <Menubar.Separator />
               <Menubar.Item>Print</Menubar.Item>
-            </Menubar.Content>
+            </Menubar.Content> -->
           </Menubar.Menu>
       </Menubar.Root>
     

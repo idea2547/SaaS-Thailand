@@ -7,11 +7,17 @@
 
 <div class="flex flex-col w-full items-center justify-center mt-24">
    
-    <h1 class="text-5xl p-4"> SaaS Thailand </h1>
-    <p class="leading-7 [&:not(:first-child)]:mb-5">
-        เว็บไซต์ที่สนับสนุนและรวบรวม SaaS ( Software-as-a-Service ) ต่างๆ
-        ในประเทศไทย
-    </p>
+    <h1 class="scroll-m-20 text-4xl font-extrabold tracking-tight lg:text-5xl">
+        SaaS Thailand
+    </h1>
+    <div class="p-5 text-center">
+        <p class="leading-5 sm:leading-6 md:leading-7 lg:leading-8 [&:not(:first-child)]:mb-5">
+            เว็บไซต์ที่สนับสนุนและรวบรวม SaaS ( Software-as-a-Service ) ต่างๆ
+            ในประเทศไทย
+        </p>
+
+    </div>
+    
     <a href="https://docs.google.com/forms/d/e/1FAIpQLSfY2ougjKrJ5aRfpSqEY59aq9_7scY1o8Jtf5f597wdBsbmnw/viewform?usp=sf_link">
         <Button>เรียนรู้เพิ่มเติม</Button>
     </a>

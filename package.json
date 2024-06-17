@@ -47,6 +47,6 @@
 		"tailwind-variants": "^0.2.1"
 	},
 	"engines": {
-		"node": "^18.17.0 || ^20.0.0"
+		"node": "^21.1.0"
 	}
 }
